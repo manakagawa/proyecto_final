@@ -1,0 +1,8 @@
+
+
+.completed {
+    text-decoration: line-through;  /* Tachado */
+    color: gray;                    /* Texto gris */
+    opacity: 0.7;                    /* Hacerlo un poco más opaco */
+    transition: 0.3s;                 /* Suaviza el cambio */
+}
